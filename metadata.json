@@ -1,0 +1,7 @@
+{
+  "name": "随心记",
+  "description": "AI-powered task manager and inspiration recorder.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
